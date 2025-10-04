@@ -61,7 +61,7 @@ cd "Graph Algorithms Visualizer"   # or cd Graph-Algorithms-Visualizer
 If you’re using **g++**:
 
 ```bash
-g++ main.cpp -o graph_sim
+g++ -std=c++17 main.cpp -o GraphSimulator
 ```
 
 (If you have multiple `.cpp` files, compile them all:
