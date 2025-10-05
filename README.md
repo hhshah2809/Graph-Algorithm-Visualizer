@@ -151,7 +151,7 @@ g++ main.cpp Graph.cpp BFS.cpp DFS.cpp Dijkstra.cpp BellmanFord.cpp FloydWarshal
 
 ## 🛠️ Requirements
 
-* C++11 or above
+* C++17 or above
 * g++ compiler / MinGW / Visual Studio Code with C++ extension
 
 ---
